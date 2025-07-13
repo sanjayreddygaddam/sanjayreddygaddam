@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanjayreddygaddam
 - 👀 I’m interested in Splunk
-- 🌱 I’m currently learning Splunk
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning DE
+- 💞️ I’m looking to collaborate on Use Cases
 - 📫 How to reach me ...
 
 <!---
