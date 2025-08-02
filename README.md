@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanjayreddygaddam
-- 👀 I’m interested in Splunk
+- 👀 I’m interested in Splunk, SOAR, Pen Testing
 - 🌱 I’m currently learning DE
 - 💞️ I’m looking to collaborate on Use Cases
 - 📫 How to reach me ...
